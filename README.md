@@ -1,2 +1,0 @@
-# GRIP_Internship_Upasana_mishra
-TSF_Data_science_linear_regression_task1
